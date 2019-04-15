@@ -1,0 +1,8 @@
+<!-- Project Object Model of Maven-->
+<project>
+ <!-- Everything defining the project will go here -->
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>mehrab</groupId><!-- this is usually the name of your organization -->
+ <artifactId>HelloWorld</artifactId><!-- The name of this project -->
+ <version>0.1.0</version>
+</project>
